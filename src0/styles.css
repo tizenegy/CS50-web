@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+div {
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    padding: 0px;
+    margin: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: bold;
+    border: 5px solid black;
+    text-align: center;
+}
